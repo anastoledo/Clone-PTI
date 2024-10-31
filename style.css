@@ -349,8 +349,8 @@
 
 .rodape .coluna1 ul li:hover {
     background-color:transparent ;
-    border: 2px solid #0082c4; /* Borda colorida ao redor do ícone */
-    color: #0082c4; /* Cor do ícone quando passar o mouse */
+    border: 2px solid #0082c4;
+    color: #0082c4; 
     transform: scale(1.3);
 }
 
@@ -392,8 +392,8 @@
 
 .rodape .coluna1 button:hover{
     background-color:transparent ;
-    border: 2px solid #0082c4; /* Borda colorida ao redor do ícone */
-    color: #0082c4; /* Cor do ícone quando passar o mouse */
+    border: 2px solid #0082c4; 
+    color: #0082c4; 
     
 }
 
@@ -426,8 +426,8 @@
 .rodape .coluna2 button:hover {
     background-color:transparent ;
     font-size: medium;
-    border: 2px solid #0082c4; /* Borda colorida ao redor do ícone */
-    color: #0082c4; /* Cor do ícone quando passar o mouse */
+    border: 2px solid #0082c4; 
+    color: #0082c4; 
     transform: scale(1.1);
     left: -10px; /
    
